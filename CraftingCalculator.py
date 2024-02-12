@@ -96,7 +96,7 @@ class ObjetoImportante(Objeto):
         caracteristicas_str = "\n".join([f"{car}: {int(val)}" for car, val in self.caracteristicas.items()])
         return f"Crafteo: {self.nombre}\nItems:\n{caracteristicas_str}\nimportant: {self.mensaje_extra}"    
 
-
+#DataBase
 def obtener_nombres_objetos():
     objetos = [
         "Selec Item",
