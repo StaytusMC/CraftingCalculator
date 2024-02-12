@@ -12,4 +12,4 @@ you can keep adding more calculations which will be registered to be copied with
 
 You can customize the color of the window to your liking and modify the code to improve the visualization.
 
-the program currently in its version 1.0 contive 318 elements and blocks approximately that are visible in the program code in the database section next to its crafting.
+the program currently in its version (1.0) contive 318 elements and blocks approximately that are visible in the program code in the database section next to its crafting.
